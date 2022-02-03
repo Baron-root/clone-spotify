@@ -30,4 +30,7 @@ body {
 }
 .sidebar_menu a {
   color: rgb(190, 190, 190);
+  text-decoration: none;
+  display: block;
+  padding: 10px 0;
 }
