@@ -24,7 +24,10 @@ body {
   margin: 20px 0;
   color: rgb(190, 190, 190);
 }
-.sidebar_logo styles {
+.sidebar_logo img {
   max-width: 250px;
   width: 100%;
+}
+.sidebar_menu a {
+  color: rgb(190, 190, 190);
 }
