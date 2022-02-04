@@ -37,8 +37,18 @@ body {
 .sidebar_menu svg {
   margin: 0 20px;
 }
-.sidebar a.sidebar_menu_selecionado {
+.sidebar_menu a.sidebar_menu_selecionado {
   color: #fff;
   background-color: rgb(80, 80, 80);
   border-radius: 5px;
+}
+.sidebar_menu_item {
+  margin-top: 12px;
+  cursor: pointer;
+  vertical-align: middle;
+}
+.sidebar_menu p.sidebar_menu_title {
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 14px;
 }
